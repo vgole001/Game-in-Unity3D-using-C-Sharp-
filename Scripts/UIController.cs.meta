@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f3436ac7bb9e13248b7e721668478955
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameOverMsg: {instanceID: 0}
+  - totalCoins: {instanceID: 0}
+  - mainAudio: {fileID: 8300000, guid: 6150501a2b9f9144b8a6db4664557bcb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
